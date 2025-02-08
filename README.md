@@ -1,3 +1,6 @@
+My NotebookLLM : https://notebooklm.google.com/notebook/b128f395-5777-4e59-9e1f-da8125bdae92
+ 
+
 # The Data Engineering Handbook
 
 This repo has all the resources you need to become an amazing data engineer!
